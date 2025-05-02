@@ -9,10 +9,10 @@
 - [x] Optimize model parameters (hyperparameter tuning)
 - [x] Compare Neural ODE predictions with ground truth
 - [x] Plot results and calculate error metrics
-- [ ] Write a detailed PDF report (Introduction, Methodology, Results, Conclusion)
-- [ ] Include plots and tables in the report
-- [ ] Upload report and code to Google Drive
-- [ ] Share Google Drive link in submission form
+- [x] Write a detailed PDF report (Introduction, Methodology, Results, Conclusion)
+- [x] Include plots and tables in the report
+- [x] Upload report and code to Google Drive
+- [x] Share Google Drive link in submission form
 
 ## 🛠 Setup Instructions
 
@@ -65,8 +65,8 @@
 | Optimize parameters | completed | 27/04/2025 |
 | Compare results | completed | 27/04/2025 |
 | Create visualizations | completed | 27/04/2025 |
-| Write report | Not started | |
-| Submit assignment | Not started | |
+| Write report | completed |02/05/2025|
+| Submit assignment | completed |02/05/2025|
 
 ## 📅 Timeline
 

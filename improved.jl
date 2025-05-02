@@ -14,7 +14,7 @@ using Statistics
 using BSON: @save, @load
 
 # Set random seed for reproducibility
-Random.seed!(1234)
+Random.seed!(123)
 
 """
 Module for Neural ODE modeling of Langmuir adsorption kinetics

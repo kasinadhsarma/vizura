@@ -13,7 +13,7 @@ using Random # For reproducibility
 using Statistics # For error metrics calculation
 
 # Set random seed for reproducibility
-Random.seed!(1234)
+Random.seed!(123)
 
 # --- Error Metrics Functions ---
 # Root Mean Square Error (RMSE)
