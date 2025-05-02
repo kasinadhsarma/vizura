@@ -39,7 +39,7 @@ Pkg.add([
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/vizura.git
+git clone https://github.com/kasinadhsarma/vizura.git
 cd vizura
 ```
 
